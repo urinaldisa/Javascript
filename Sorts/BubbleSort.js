@@ -20,7 +20,7 @@ function bubbleSort (items) {
 
 // Implementation of bubbleSort
 
-var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+var ar = [4, 5, 7, 8, 1, 2, 13, 17]
 // Array before Sort
 console.log('-----before sorting-----')
 console.log(ar)
